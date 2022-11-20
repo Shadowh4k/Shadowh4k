@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">Becoming a Software Developer 💪</h3>
 
+<p align="center">
+ <a target="_blank" href=https://github.com/RafaelDeMoya>
+  <img src=https://img.shields.io/github/followers/RafaelDeMoya?label=follow%20me&style=social />
+  &nbsp;
+</a></p>
 
 |![](https://github-readme-stats.vercel.app/api?username=rafaeldemoya&show_icons=true&locale=en)|![](https://github-readme-streak-stats.herokuapp.com/?user=rafaeldemoya&)|
 |-|-|
