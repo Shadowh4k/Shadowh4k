@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
-<h3 align="center">Becoming a Software Developer 💪</h3>
+<h3 align="center">Always learning 💪</h3>
 
 <p align="center">
  <a target="_blank" href=https://github.com/RafaelDeMoya>
