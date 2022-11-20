@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">Becoming a Software Developer 💪</h3>
 
-![snakedark](https://raw.githubusercontent.com/rafaeldemoya/rafaeldemoya/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![snakelight](https://raw.githubusercontent.com/rafaeldemoya/rafaeldemoya/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 
 |![](https://github-readme-stats.vercel.app/api?username=rafaeldemoya&show_icons=true&locale=en)|![](https://github-readme-streak-stats.herokuapp.com/?user=rafaeldemoya&)|
 |-|-|
+
+![snakedark](https://raw.githubusercontent.com/rafaeldemoya/rafaeldemoya/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![snakelight](https://raw.githubusercontent.com/rafaeldemoya/rafaeldemoya/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <hr>
 
