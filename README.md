@@ -6,7 +6,7 @@
   <img src=https://img.shields.io/github/followers/RafaelDeMoya?label=follow%20me&style=social />
 </a></p>
 
-|![](https://github-readme-stats.vercel.app/api?username=rafaeldemoya&show_icons=true&theme=transparent)|![](https://github-readme-streak-stats.herokuapp.com/?user=rafaeldemoya&background=DD272700&hide_border=true&theme=windows-dark)|
+|![](https://github-readme-stats.vercel.app/api?username=rafaeldemoya&show_icons=true&theme=transparent&hide_border=true)|![](https://github-readme-streak-stats.herokuapp.com/?user=rafaeldemoya&background=DD272700&hide_border=true&theme=windows-dark)|
 |-|-|
 
 ![snakedark](https://raw.githubusercontent.com/rafaeldemoya/rafaeldemoya/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![snakelight](https://raw.githubusercontent.com/rafaeldemoya/rafaeldemoya/output/github-contribution-grid-snake.svg#gh-light-mode-only)
