@@ -14,5 +14,5 @@
 <hr>
 
 
-<h3 align="center">You can buy me a coffee ❤:</h3>
+<h3 align="center">If you want, you can buy me a coffee ❤:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/rafaeldemoya"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rafaeldemoya" /></a></p><br><br>
