@@ -7,8 +7,9 @@
  <a target="_blank" href=https://github.com/Shadowh4k>
   <img src=https://img.shields.io/github/followers/Shadowh4k?label=follow%20me&style=social />
 </a>
-[![autocomplete](https://codeium.com/badges/user/shadowh4k/autocomplete)](https://codeium.com/profile/shadowh4k)
 </p>
+
+[![autocomplete](https://codeium.com/badges/user/shadowh4k/autocomplete)]
 
 | ![](https://github-readme-stats.vercel.app/api?username=shadowh4k&show_icons=true&theme=transparent&hide_border=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=shadowh4k&background=DD272700&hide_border=true&theme=windows-dark) |
 | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
