@@ -21,5 +21,5 @@ jobs:
         git config user.name ${{ secrets.GIT_USERNAME }}
         git config user.email ${{ secrets.GIT_EMAIL }}
         git add lastUpdate
-        git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update  with latest"
+        git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update lastUpdate with latest"
         git push origin master
