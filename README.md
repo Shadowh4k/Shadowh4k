@@ -9,12 +9,14 @@
 </a>
 </div>
 
+<div align="center">
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=noxvye&background=DD272700&hide_border=true&theme=windows-dark) |
-| --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+</div>
+
 
 ![snakedark](https://raw.githubusercontent.com/noxvye/noxvye/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![snakelight](https://raw.githubusercontent.com/noxvye/noxvye/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <hr>
 
 <h3 align="center">If you want, you can buy me a coffee ❤:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/noxvy"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="noxvye" /></a></p><br><br>
+<div align="center"><a href="https://www.buymeacoffee.com/noxvy"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="noxvye" /></a></div><br><br>
